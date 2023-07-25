@@ -5,6 +5,7 @@
 /**
  * main - Entry point
  *
+ * by Thapelo and Palesa
  * Return: Always 0
  */
 int main(void)
