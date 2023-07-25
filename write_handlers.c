@@ -10,6 +10,7 @@
  * @precision: precision specifier
  * @size: Size specifier
  *
+ * by Thapelo and Palesa
  * Return: Number of chars printed.
  */
 int handle_write_char(char c, char buffer[],
